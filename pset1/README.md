@@ -18,7 +18,7 @@
 
   * Implement a program that recreates the adjacent pyramid of blocks used by Nintendo’s Super Mario Brothers, Mario. Prompt for user height, use error checking, iterate through the height and print the pyramid.
 
-![pyramid](https://github.com/sherrimitchell/harvard-cs50/tree/master/pset1/images/pyramid.png)
+![pyramid](https://github.com/sherrimitchell/harvard-cs50/blob/master/pset1/images/pyramids.png)
 
 [Cash: Less Comfortable](https://lab.cs50.io/cs50/labs/2019/x/cash/)
 
