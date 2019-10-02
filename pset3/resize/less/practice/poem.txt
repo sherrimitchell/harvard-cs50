@@ -1,0 +1,6 @@
+// this is the file I am using to print to the terminal
+
+Merrily we roll along, sing a song, watch the throngs,
+Merrily we roll along, to find out, what we did wrong,
+Merrily we roll along, seems we're good, knew we could,
+Merrily we roll along, we'll be on our way.
