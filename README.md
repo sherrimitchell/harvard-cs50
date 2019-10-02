@@ -10,23 +10,40 @@ ___
 [Syballus:](https://cs50.harvard.edu/college/2018/fall/syllabus/)
 
 **Week 0** Binary. ASCII. Algorithms. Pseudocode. Source code. Compiler. Object code. Scratch. Statements. Boolean expressions. Conditions. Loops. Variables. Functions. Arrays. Threads. Events.
+
 **Week 1** Linux. C. Compiling. Libraries. Data Types. Operators. Conditional Statements. Loops. Command Line. Standard output.
+
 **Week 2** Casting. Imprecision. Switches. Scope. Strings. Functions. Arrays. Linear Search. Selection Sort. Bubble Sort. Insertion Sort. Merge Sort. Binary Search. Algorithms Summary. Cryptography.
+
 **Week 3** Recursion. Hexadecimal. File Pointers. Call Stacks. Pointers. Dynamic Memory Allocation.
+
 **Week 4** Data Structures. Defining Custom Types. Singly-Linked Lists. Hash Tables. Tries.
+
 **Week 5** Internet Primer. IP. TCIP. HTTP. HTML. CSS. JavaScript.
+
 **Week 6** Python.
+
 **Week 7** Flask. AJAX.
+
 **Week 8** SQL.
+
 **Week 10** Data Visualization with D3. Arduino. Interactive Websites with JQuery and Bootstrap. Javascript. Web Development with Python and Django. Github.
+___
 
 **psets:**
 
 [Problem Set 1:](https://docs.cs50.net/2019/x/psets/1/index.html)
-[Hello](https://lab.cs50.io/cs50/labs/2019/x/hello/)
-[Mario: Less Comfortable](https://lab.cs50.io/cs50/labs/2019/x/mario/less/)
-[Mario: More Comfortable](https://lab.cs50.io/cs50/labs/2019/x/mario/more/)
-[Cash: Less Comfortable](https://lab.cs50.io/cs50/labs/2019/x/cash/)
-[Credit: More Comfortable](https://lab.cs50.io/cs50/labs/2019/x/credit/)
+
+* [Hello](https://lab.cs50.io/cs50/labs/2019/x/hello/)
+
+ * [Mario: Less Comfortable](https://lab.cs50.io/cs50/labs/2019/x/mario/less/)
+
+ * [Mario: More Comfortable](https://lab.cs50.io/cs50/labs/2019/x/mario/more/)
+
+ * [Cash: Less Comfortable](https://lab.cs50.io/cs50/labs/2019/x/cash/)
+
+ * [Credit: More Comfortable](https://lab.cs50.io/cs50/labs/2019/x/credit/)
+
 [Problem Set 2:](https://docs.cs50.net/2019/x/psets/2/index.html)
+
 [Problem Set 3:](https://docs.cs50.net/2019/x/psets/3/index.html)
